@@ -1,5 +1,4 @@
-
- "pois":[
+[
   {
     "name": "Parque Central",
     "rating": 4.8,
@@ -28,7 +27,6 @@
     "image": "salto",
     "temperature": 22
   },
-
   {
     "name": "Santuario Guácharos",
     "rating": 4.6,
