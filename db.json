@@ -4,7 +4,9 @@
     "rating": 4.8,
     "lilDescription": "Recorrer el parque de Jardin Antioquia es un placer, sus calles empedradas, sus balcones coloridos y llenos de flores, casas de puertas abiertas donde basta con pedir permiso para entrar y disfrutas de su arquitectura, la calidez de sus habitantes y el aroma a café en cualquier esquina hacen que caminar por el centro historico te lleve en un viaje al pasado",
     "image": "https://i.imgur.com/qkfwZFq.jpg",
-    "temperature": 18
+    "temperature": 18,
+    "lat": 34.5,
+    "long": 151.0
   },
   {
     "name": "Puente Pizano",
