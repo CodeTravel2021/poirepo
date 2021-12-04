@@ -6,7 +6,7 @@
     "image": "https://i.imgur.com/qkfwZFq.jpg",
     "temperature": 18,
     "lat": 5.5980399,
-    "long": -75.8202063,18
+    "long": -75.8202063
   },
   {
     "name": "Puente Pizano",
@@ -15,7 +15,7 @@
     "image": "https://i.imgur.com/TJNIdLb.jpg",
     "temperature": 20,
      "lat": 5.5980399,
-    "long": -75.8202063,18
+    "long": -75.8202063
   },
   {
     "name": "Cueva del Esplendor",
@@ -24,7 +24,7 @@
     "image": "https://i.imgur.com/ZwnGNR9.jpg",
     "temperature": 21,
     "lat": 5.5980399,
-    "long": -75.8202063,18
+    "long": -75.8202063
   },
   {
     "name": "Salto del Ángel",
@@ -33,7 +33,7 @@
     "image": "https://i.imgur.com/aY65HOe.jpg",
     "temperature": 22,
     "lat": 5.5980399,
-    "long": -75.8202063,18
+    "long": -75.8202063
   },
   {
     "name": "Santuario Guácharos",
@@ -44,7 +44,7 @@
     "lat": 5.5980399,
     "long": -75.8202063,18,
     "lat": 5.5980399,
-    "long": -75.8202063,18
+    "long": -75.8202063
   },
    {
     "name": "La Garucha",
@@ -53,7 +53,7 @@
     "image": "https://i.imgur.com/F0AJuRw.jpg",
     "temperature": 22,
     "lat": 5.5980399,
-    "long": -75.8202063,18
+    "long": -75.8202063
   },
 
   {
@@ -63,7 +63,7 @@
     "image": "https://i.imgur.com/bbb0Yrz.jpg",
     "temperature": 21,
     "lat": 5.5980399,
-    "long": -75.8202063,18
+    "long": -75.8202063
 
   },
   {
@@ -73,7 +73,7 @@
     "image": "https://i.imgur.com/KhP3S3M.jpg",
     "temperature": 22,
     "lat": 5.5980399,
-    "long": -75.8202063,18
+    "long": -75.8202063
   }
 ]
 }
